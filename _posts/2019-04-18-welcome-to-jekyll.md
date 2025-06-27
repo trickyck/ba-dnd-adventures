@@ -1,29 +1,35 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: "Welcome to The Knights of Realms"
+date: 2025-06-27
 categories:
   - blog
 tags:
-  - Jekyll
-  - update
+  - recap
+  - back story
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+It's been a while. Let's take a step back with a refresher...
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+You’ve entered occupied territory. For your own reasons, you have chosen to travel to Merridale Falls, which is the chief market town of Morndale.
 
-Jekyll also offers powerful support for code snippets:
+The journey there was mostly uneventful. War has ravaged the land, and those farmsteads that weren’t burnt to the ground were abandoned and left for nature to reclaim.
+A few patrols, easily avoided, were encountered on the way.
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+After four days of walking, you started to see signs of habitation - smoke from cooking fires, the distant lowing of sheep, and an occasional whistle if a shepherd calling his dog.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Crossing through the tumbled fells of the Thornwych Hills you rounded a bend in the road and came upon an ambush in progress.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Arrows were loosed, spells were cast and shields were shattered.
+You were hard pressed, but were still close to victory, when a group of riders arrived, led by a charismatic and ruggedly handsome warrior (who looked a bit like me apparently). They dispatched the hobgoblin ambushers in short order.
+
+![The battlefield](/assets/images/arrows-loosed-spells-cast.png)
+
+Rendil Morn, leader of the riders and Clan Lord of Morndale, gave you a task to rid his people of a curse - a disease that sends people to sleep, eventually causing them to waste away and die.
+
+He advised you to reach the town before nightfall as the disease strikes after dark. Rumours abound of dark shadows that prowl the streets - locals call them the Night Shades.
+
+![Beware of the night shades!](/assets/images/night-shades.png)
+
+You watched as the riders left with the wagons and the dead hobgoblins starting to attract flies. You stripped the corpses of anything worth keeping and found a curious amulet. It was embossed with the symbol of a dragon, matching the blaze on the shields of the hobgoblins.
+
+Returning to the road, you found a young half-orc clearing the signs of the ambush. A tense moment ensued before Corvis the Ranger recognised the newcomer as Thuramarsh, an acquaintance he had met over a meal of venison, some time ago.
