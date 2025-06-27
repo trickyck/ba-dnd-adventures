@@ -26,6 +26,8 @@ You were hard pressed, but were still close to victory, when a group of riders a
 
 Rendil Morn, leader of the riders and Clan Lord of Morndale, gave you a task to rid his people of a curse - a disease that sends people to sleep, eventually causing them to waste away and die.
 
+![The dreaded curse]({{ site.baseurl }}/assets/images/sick-people.png)
+
 He advised you to reach the town before nightfall as the disease strikes after dark. Rumours abound of dark shadows that prowl the streets - locals call them the Night Shades.
 
 ![Beware of the night shades!]({{ site.baseurl }}/assets/images/night-shades.png)
