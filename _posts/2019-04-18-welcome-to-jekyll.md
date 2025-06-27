@@ -22,13 +22,13 @@ Crossing through the tumbled fells of the Thornwych Hills you rounded a bend in 
 Arrows were loosed, spells were cast and shields were shattered.
 You were hard pressed, but were still close to victory, when a group of riders arrived, led by a charismatic and ruggedly handsome warrior (who looked a bit like me apparently). They dispatched the hobgoblin ambushers in short order.
 
-![The battlefield](/assets/images/arrows-loosed-spells-cast.png)
+![The battlefield]({{ site.baseurl }}/assets/images/arrows-loosed-spells-cast.png)
 
 Rendil Morn, leader of the riders and Clan Lord of Morndale, gave you a task to rid his people of a curse - a disease that sends people to sleep, eventually causing them to waste away and die.
 
 He advised you to reach the town before nightfall as the disease strikes after dark. Rumours abound of dark shadows that prowl the streets - locals call them the Night Shades.
 
-![Beware of the night shades!](/assets/images/night-shades.png)
+![Beware of the night shades!]({{ site.baseurl }}/assets/images/night-shades.png)
 
 You watched as the riders left with the wagons and the dead hobgoblins starting to attract flies. You stripped the corpses of anything worth keeping and found a curious amulet. It was embossed with the symbol of a dragon, matching the blaze on the shields of the hobgoblins.
 
