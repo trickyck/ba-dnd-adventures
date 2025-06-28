@@ -12,7 +12,6 @@ It's been a while. Let's take a step back with a refresher...
 
 <figure class="image-caption">
   <img src="{{ site.baseurl }}/assets/images/going-to-merridale-falls.png" alt="Goihg to Merridale Falls">
-  <figcaption>Going to Merridale Falls aka "Mereallle"</figcaption>
 </figure>
 
 You’ve entered occupied territory. For your own reasons, you have chosen to travel to Merridale Falls, which is the chief market town of Morndale.
