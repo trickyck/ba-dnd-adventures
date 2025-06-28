@@ -1,11 +1,7 @@
 ---
 title: "Welcome to The Knights of Realms"
 date: 2025-06-27
-feature_row:
-- image_path: assets/images/arrows-loosed-spells-cast.png
-  title: "Arrows were loosed, spells were cast and shield were shattered"
-- image_path: /assets/images/sick-people.png
-  title: "Rendil Morn gave you a task to rid his people of a curse"
+last_modified_at: 2025-06-28
 categories:
   - blog
 tags:
