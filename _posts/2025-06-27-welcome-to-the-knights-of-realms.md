@@ -56,4 +56,12 @@ He advised you to reach the town before nightfall as the disease strikes after d
 
 You watched as the riders left with the wagons and the dead hobgoblins started to attract flies. You stripped the corpses of anything worth keeping and found a curious amulet. It was embossed with the symbol of a dragon, matching the blaze on the shields of the hobgoblins.
 
+<figure class="image-caption">
+  <img src="{{ site.baseurl }}/assets/images/dead-hobgoblins-amulet.png" alt="Amulet found among dead hobgoblins">
+</figure>
+
 Returning to the road, you found a young half-orc clearing the signs of the ambush. A tense moment ensued before Corvis the Ranger recognised the newcomer as Thuramarsh, an acquaintance he had met over a meal of venison, some time ago.
+<figure class="image-caption">
+  <img src="{{ site.baseurl }}/assets/images/thuramarsh-corvis-eating-venison.png" alt="A nice memory">
+  <blockquote>A nice memory for Corvis the Ranger and Thuramarsh the Half-Orc</blockquote>
+</figure>
