@@ -19,7 +19,7 @@ You’ve entered occupied territory. For your own reasons, you have chosen to tr
 The journey there was mostly uneventful. War has ravaged the land, and those farmsteads that weren’t burnt to the ground were abandoned and left for nature to reclaim.
 A few patrols, easily avoided, were encountered on the way.
 
-After four days of walking, you started to see signs of habitation - smoke from cooking fires, the distant lowing of sheep, and an occasional whistle if a shepherd calling his dog.
+After four days of walking, you started to see signs of habitation - smoke from cooking fires, the distant lowing of sheep, and an occasional whistle of a shepherd calling his dog.
 
 Crossing through the tumbled fells of the Thornwych Hills you rounded a bend in the road and came upon an ambush in progress.
 
@@ -54,6 +54,6 @@ He advised you to reach the town before nightfall as the disease strikes after d
 </div>
 </div>
 
-You watched as the riders left with the wagons and the dead hobgoblins starting to attract flies. You stripped the corpses of anything worth keeping and found a curious amulet. It was embossed with the symbol of a dragon, matching the blaze on the shields of the hobgoblins.
+You watched as the riders left with the wagons and the dead hobgoblins started to attract flies. You stripped the corpses of anything worth keeping and found a curious amulet. It was embossed with the symbol of a dragon, matching the blaze on the shields of the hobgoblins.
 
 Returning to the road, you found a young half-orc clearing the signs of the ambush. A tense moment ensued before Corvis the Ranger recognised the newcomer as Thuramarsh, an acquaintance he had met over a meal of venison, some time ago.
