@@ -1,0 +1,40 @@
+.split-row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 2rem 0;
+  align-items: center;
+
+  .split-text, .split-image {
+    flex: 1 1 50%;
+    padding: 1rem;
+  }
+
+  .split-image img {
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  }
+}
+
+/* Reverses the order */
+.split-row.reverse {
+  flex-direction: row-reverse;
+}
+
+.image-caption {
+  text-align: center;
+  margin: 2rem auto;
+
+  img {
+    max-width: 100%;
+    border-radius: 6px;
+  }
+
+  figcaption {
+    font-size: 0.9rem;
+    color: #666;
+    margin-top: 0.5rem;
+    font-style: italic;
+  }
+}
+

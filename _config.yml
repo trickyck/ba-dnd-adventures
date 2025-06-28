@@ -22,6 +22,11 @@ github_username: username
 minimal_mistakes_skin: default
 baseurl: "/ba-dnd-adventures"
 search: true
+header:
+  overlay_image: "/assets/images/medieval-town.png"
+sass:
+  style: expanded
+  sass_dir: "/assets/css"
 
 # Build settings
 markdown: kramdown
@@ -57,9 +62,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Samira the Rogue Gnome"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I'm ready for an adventure"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -93,6 +98,7 @@ defaults:
       type: posts
     values:
       layout: single
+      classes: wide
       author_profile: true
       read_time: true
       comments: true
@@ -104,6 +110,7 @@ defaults:
       type: pages
     values:
       layout: single
+      classes: wide
       author_profile: true
 
 category_archive:

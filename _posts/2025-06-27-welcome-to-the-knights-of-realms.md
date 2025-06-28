@@ -1,14 +1,23 @@
 ---
 title: "Welcome to The Knights of Realms"
 date: 2025-06-27
+feature_row:
+- image_path: assets/images/arrows-loosed-spells-cast.png
+  title: "Arrows were loosed, spells were cast and shield were shattered"
+- image_path: /assets/images/sick-people.png
+  title: "Rendil Morn gave you a task to rid his people of a curse"
 categories:
   - blog
 tags:
   - recap
-  - back story
 ---
 
 It's been a while. Let's take a step back with a refresher...
+
+<figure class="image-caption">
+  <img src="{{ site.baseurl }}/assets/images/going-to-merridale-falls.png" alt="Goihg to Merridale Falls">
+  <figcaption>Going to Merridale Falls aka "Mereallle"</figcaption>
+</figure>
 
 You’ve entered occupied territory. For your own reasons, you have chosen to travel to Merridale Falls, which is the chief market town of Morndale.
 
@@ -19,18 +28,36 @@ After four days of walking, you started to see signs of habitation - smoke from 
 
 Crossing through the tumbled fells of the Thornwych Hills you rounded a bend in the road and came upon an ambush in progress.
 
+<div class="split-row">
+
+<div class="split-text">
+<p>
 Arrows were loosed, spells were cast and shields were shattered.
 You were hard pressed, but were still close to victory, when a group of riders arrived, led by a charismatic and ruggedly handsome warrior (who looked a bit like me apparently). They dispatched the hobgoblin ambushers in short order.
+</p>
+</div>
+<div class="split-image">
+<img src="{{ site.baseurl }}/assets/images/arrows-loosed-spells-cast.png" alt="The battlefield"> 
+</div>
+</div>
 
-![The battlefield]({{ site.baseurl }}/assets/images/arrows-loosed-spells-cast.png)
-
+<div class="split-row reverse">
+<div class="split-text">
 Rendil Morn, leader of the riders and Clan Lord of Morndale, gave you a task to rid his people of a curse - a disease that sends people to sleep, eventually causing them to waste away and die.
+</div>
+<div class="split-image">
+<img src="{{ site.baseurl }}/assets/images/sick-people.png" alt="The dreaded curse">
+</div>
+</div>
 
-![The dreaded curse]({{ site.baseurl }}/assets/images/sick-people.png)
-
+<div class="split-row">
+<div class="split-text">
 He advised you to reach the town before nightfall as the disease strikes after dark. Rumours abound of dark shadows that prowl the streets - locals call them the Night Shades.
-
-![Beware of the night shades!]({{ site.baseurl }}/assets/images/night-shades.png)
+</div>
+<div class="split-image">
+<img src="{{ site.baseurl }}/assets/images/night-shades.png" alt="Beware of the night shades">
+</div>
+</div>
 
 You watched as the riders left with the wagons and the dead hobgoblins starting to attract flies. You stripped the corpses of anything worth keeping and found a curious amulet. It was embossed with the symbol of a dragon, matching the blaze on the shields of the hobgoblins.
 
