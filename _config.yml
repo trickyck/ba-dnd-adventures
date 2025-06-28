@@ -22,11 +22,11 @@ github_username: username
 minimal_mistakes_skin: default
 baseurl: "/ba-dnd-adventures"
 search: true
-header:
-  overlay_image: "/assets/images/medieval-town.png"
 sass:
   style: expanded
   sass_dir: "/assets/css"
+header:
+  image: "/assets/images/hero.png"
 
 # Build settings
 markdown: kramdown
@@ -104,6 +104,9 @@ defaults:
       comments: true
       share: true
       related: true
+      header:
+        overlay_image: "/assets/images/hero.png"
+        caption: ""
   # _pages
   - scope:
       path: "_pages"
@@ -112,6 +115,9 @@ defaults:
       layout: single
       classes: wide
       author_profile: true
+      header:
+        overlay_image: "/assets/images/hero.png"
+        caption: ""
 
 category_archive:
   type: liquid
