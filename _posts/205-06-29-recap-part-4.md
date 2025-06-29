@@ -28,6 +28,10 @@ Sariel scanned the room, looking for things to steal - old habits die hard. Thur
 
 Pity, there was a very ornate sword hanging above the bar. 
 
+<figure class="image-caption">
+  <img src="{{ site.baseurl }}/assets/images/ornate-sword.png" alt="Ornate sword">
+</figure>
+
 Conversation around the room seemed to be mostly about the next morning's market, but occasionally, the words "Night Shade" could be heard. You could taste the unease in the air. A hand waved a leather belt in your faces. Looking down, you saw a young halfling waving the belt, eagerly proclaiming:
 
 <blockquote> "Look at the workmanship on it! Such a fine belt you've never seen. The tanner downstream, can't remember his name, 'Dullard' or summat like that - such a craftsman." </blockquote>
