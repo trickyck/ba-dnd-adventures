@@ -10,7 +10,13 @@ tags:
 
 The taproom in the Red Rock was half empty, despite it being Market Day the following morning. 
 
-The warm glow of the fireplace attracted Rover immediately. The rest of you followed him and settled at a table nearby as the cat curled up on the floor, content to stay there for the night.
+The warm glow of the fireplace attracted Rover immediately. 
+
+<figure class="image-caption">
+  <img src="{{ site.baseurl }}/assets/images/rover-sitting-by-fire.png" alt="Tabaxi sitting by fire">
+</figure>
+
+The rest of you followed him and settled at a table nearby as the cat curled up on the floor, content to stay there for the night.
 
 Sariel scanned the room, looking for things to steal - old habits die hard. Thuramarsh followed her gaze and leant across the table, whispering:
 
